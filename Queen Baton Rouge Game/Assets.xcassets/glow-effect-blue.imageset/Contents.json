@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "glow-effect-blue.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
