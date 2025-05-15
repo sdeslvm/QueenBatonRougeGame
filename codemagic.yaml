@@ -7,7 +7,7 @@ workflows:
           - certificate_credentials # <-- (CERTIFICATE_PRIVATE_KEY)
         vars:
           XCODE_PROJECT: "Queen Baton Rouge Game.xcodeproj"
-          XCODE_SCHEME: "project"
+          XCODE_SCHEME: "Queen Baton Rouge Game"
           BUNDLE_ID: "com.barin.gme"
           APP_STORE_APPLE_ID: 6745937600
         xcode: latest

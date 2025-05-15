@@ -5,7 +5,7 @@ BUNDLE_ID="com.barin.gme"
 APPLE_ID="6745937600"
 REMOTE_URL="git@github.com:sdeslvm/QueenBatonRougeGame.git"
 PROJECT_NAME="Queen Baton Rouge Game"
-SCHEME_NAME="project"
+SCHEME_NAME="Queen Baton Rouge Game"
 
 # Создание codemagic.yaml
 cat <<EOL > codemagic.yaml
